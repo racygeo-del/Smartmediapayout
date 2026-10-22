@@ -1,0 +1,6 @@
+{
+  "name": "HEOFLIX",
+  "description": "Media manager & RSS video importer, embedded favorite video player, real-world video analytics dashboard, verified monetization engine, dollar wallet, and banking push credit transfer suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
